@@ -5,11 +5,11 @@ title: Katja Berčič | Activities
 
 # Activities
 
-Organization of the Dagstuhl Seminar 23401 [Automated mathematics: integrating proofs, algorithms and data](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23401)
-: October 1-6, 2023; with [Andrej Bauer](http://www.andrej.com/), [Florian Rabe](http://kwarc.info/people/frabe/) and [Nicolas Thiéry](http://nicolas.thiery.name/).
+[Automated mathematics: integrating proofs, algorithms and data](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23401)
+: October 1-6, 2023; organizer of the Dagstuhl Seminar 23401, together with [Andrej Bauer](http://www.andrej.com/), [Florian Rabe](http://kwarc.info/people/frabe/) and [Nicolas Thiéry](http://nicolas.thiery.name/).
 
-Member of the organizing committee for the [10th Slovenian Conference on Graph Theory](https://sicgt.si)
-: June 18-24, 2023.
+[10th Slovenian Conference on Graph Theory](https://sicgt.si)
+: June 18-24, 2023; member of the organizing committee.
 
 ## 2022
 

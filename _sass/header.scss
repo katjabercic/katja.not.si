@@ -13,9 +13,15 @@ header{
             text-decoration: none;
         }
         h1{
+            font-size: 3rem;
             max-width: 25ch;
             margin: 10px auto;
+            color: $color-body;
             border-bottom: 0.15em solid $color-primary;
+        }
+        h1 .hl { 
+            padding: 0 0.5em;
+            background-color: $color-primary 
         }
         h2{
             font-family: $base-font;
