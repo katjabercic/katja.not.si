@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Katja Berčič | Projects | Do mathematicians dream of data?
+title: Katja Berčič | Talks | Do mathematicians dream of data?
 ---
 
 # Do mathematicians dream of data?
+
+## Slides
+
+Soon.
 
 ## References and links
 
@@ -45,6 +49,9 @@ title: Katja Berčič | Projects | Do mathematicians dream of data?
 
 * Lean-HoG [GitHub](https://github.com/katjabercic/Lean-HoG/)
 * Andrej Bauer, Katja Berčič, Gauvain Devillez and Jure Taslak, [Incorporating a Database of Graphs into a Proof Assistant](https://link.springer.com/chapter/10.1007/978-3-031-66997-2_9)
+* M. Blum and S. Kanna, [Designing programs that check their work](https://dl.acm.org/doi/abs/10.1145/73007.73015)
+* R.M. McConnell, K. Mehlhorn, S. Näher and P. Schweitzer, [Certifying algorithms](https://www.sciencedirect.com/science/article/abs/pii/S1574013710000560)
+
 
 ### Miscelaneous
 

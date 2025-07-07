@@ -12,6 +12,7 @@ title: Katja Berčič | Projects
 
 ## MathBases
 
+* With [Adam Towsley](https://www.rit.edu/directory/adtsma-adam-towsley), [Ben Spitz](https://benspitz.com), [David Roe](https://math.mit.edu/~roed/), [David Lowry-Duda](https://davidlowryduda.com), [Benjamin Hutz](https://www.slu.edu/arts-and-sciences/mathematics-statistics/faculty/benjamin-hutz.php) and [Edgar Costa](https://edgarcosta.org).
 * [mathbases.org](https://mathbases.org)
 * [GitHub](https://github.com/MathBases)
 
@@ -23,6 +24,7 @@ This project is the successor of [Catalogue of Mathematical Datasets](https://ma
 * [GitHub](https://github.com/MathHubInfo/mhd)
 
 A semantic portal for mathematical datasets.
+This project is a successor of DiscreteZOO
 
 ## DiscreteZOO
 
