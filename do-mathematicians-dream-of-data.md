@@ -5,7 +5,7 @@ title: Katja Berčič | Talks | Do mathematicians dream of data?
 
 # Do mathematicians dream of data?
 
-## Slides
+<a href="/download/Do-mathematicians-dream-of-data">Slides.</a>
 
 Soon.
 
