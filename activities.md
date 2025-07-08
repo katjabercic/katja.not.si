@@ -5,6 +5,8 @@ title: Katja Berčič | Activities
 
 # Activities
 
+CICM-19, the 2026 installment of [CICM](https://cicm-conference.org/cicm.php)
+
 [Automated mathematics: integrating proofs, algorithms and data](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23401)
 : October 1-6, 2023; organizer of the Dagstuhl Seminar 23401, together with [Andrej Bauer](http://www.andrej.com/), [Florian Rabe](http://kwarc.info/people/frabe/) and [Nicolas Thiéry](http://nicolas.thiery.name/).
 
