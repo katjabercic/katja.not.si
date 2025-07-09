@@ -9,7 +9,7 @@ title: Katja Berčič | Other
 
 I have a design ~~problem~~ hobby.
 
-## Recent posters
+## Posters
 
 {% for poster in posters %}
 <div class="poster">
@@ -18,7 +18,7 @@ I have a design ~~problem~~ hobby.
 {% endfor %}
 <div class="clr"></div>
 
-## UPM
+## Prehistory
 
 <div class="captioned-poster">
 <div class="poster">
@@ -26,4 +26,11 @@ I have a design ~~problem~~ hobby.
 </div>
 <p>To my surprise, the poster promoting the University Programming Marathon has evolved to be a bit iconic.
 From what I can dig up, it was first used in 2014.</p>
+</div>
+
+<div class="captioned-poster">
+<div class="poster">
+    <a href="/images/imo-2006.png"><img src="/images/imo-2006.png" /></a>
+</div>
+<p>To my even bigger surprise, the IMO website still uses the design from 2006.</p>
 </div>
