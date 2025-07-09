@@ -3,6 +3,8 @@ layout: page
 title: Katja Berčič | Projects
 ---
 
+
+
 # Projects
 
 ## Lean HoG
@@ -16,7 +18,7 @@ title: Katja Berčič | Projects
 * [mathbases.org](https://mathbases.org)
 * [GitHub](https://github.com/MathBases)
 
-This project is the successor of [Catalogue of Mathematical Datasets](https://mathdb.mathhub.info) ([GitHub](https://github.com/MathHubInfo/MathDBDjango))
+This project is the successor of the [Catalogue of Mathematical Datasets](#catalogue-of-mathematical-datasets).
 
 ## MathDataHub
 
@@ -25,6 +27,11 @@ This project is the successor of [Catalogue of Mathematical Datasets](https://ma
 
 A semantic portal for mathematical datasets.
 This project is a successor of DiscreteZOO
+
+## Catalogue of Mathematical Datasets
+
+* [website](https://mathdb.mathhub.info),
+* [GitHub](https://github.com/MathHubInfo/MathDBDjango).
 
 ## DiscreteZOO
 
@@ -43,3 +50,4 @@ MathDataHub builds on the ideas from DiscreteZOO.
 the development of high-quality sociotechnical infrastructure: software, databases, communities, and more.
 It was founded as an outcome of the American Institute of Mathematics' 2023 December workshop on Open-source cyberinfrastructure 
 supporting mathematics research.
+
