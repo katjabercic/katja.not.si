@@ -24,7 +24,7 @@ I have a design ~~problem~~ hobby.
 <div class="poster">
     <a href="/images/upm-2023.png"><img src="/images/upm-2023.png" /></a>
 </div>
-<p>To my surprise, the poster promoting the University Programming Marathon has evolved to be a bit iconic.
+<p>To my surprise, the poster promoting the University Programming Marathon has evolved to be a bit iconic, to the extent that they don't want to change it (yet).
 From what I can dig up, it was first used in 2014.</p>
 </div>
 
