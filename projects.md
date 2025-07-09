@@ -7,7 +7,7 @@ title: Katja Berčič | Projects
 
 ## Lean HoG
 
-* Joint work with [Andrej Bauer](https://www.andrej.com/index.html) and [Jure Taslak](https://www.fmf.uni-lj.si/sl/imenik/1331/taslak-jure/).
+* Joint work with [Andrej Bauer](https://www.andrej.com/index.html), [Gauvain Devillez](https://github.com/GauvainD) and [Jure Taslak](https://www.fmf.uni-lj.si/sl/imenik/1331/taslak-jure/).
 * [GitHub](https://github.com/katjabercic/Lean-HoG)
 
 ## MathBases
