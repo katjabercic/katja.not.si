@@ -10,6 +10,7 @@ title: Katja Berčič | Talks
 I gave a talk at [LMFDB, Computation, and Number Theory (LuCaNT) 2025](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant), 
 which took place at [ICERM](https://icerm.brown.edu/) in Providence, July 7 - 11, 2025.
 
+* [recording](https://icerm.brown.edu/video_archive/4204),
 * <a href="/download/Do-mathematicians-dream-of-data.pdf">slides</a>,
 * [references](do-mathematicians-dream-of-data.html).
 
