@@ -9,7 +9,7 @@ title: Katja Berčič | Talks | Alignments for data
 
 ## References and links
 
-### Intro
+### Intro and overview
 
 * Jacques Carette, William M. Farmer, Michael Kohlhase and Florian Rabe, [Big Math and the One-Brain Barrier: The Tetrapod Model of Mathematical Knowledge](https://link.springer.com/article/10.1007/s00283-020-10006-0)
 * [MaRDI](https://portal.mardi4nfdi.de/), Mathematical Research Data Initiative (Germany)
@@ -25,6 +25,14 @@ title: Katja Berčič | Talks | Alignments for data
 * Steven Clontz, [Database-Driven Mathematical Inquiry](https://arxiv.org/abs/2404.05778)
 * Edgar Costa and David Roe, [Zen and the Art of Database Maintenance](https://math.mit.edu/~edgarc/files/papers/Costa,%20Roe%20-%20Zen%20and%20the%20Art%20of%20Database%20Maintenance.pdf)
 * Sara C. Billey and Bridget E. Tenner, [Fingerprint Databases for Theorems](https://www.ams.org/notices/201308/rnoti-p1034.pdf)
+* [MathBases](https://mathbases.org)
+* The image of the python eating the elephant is from the [Le Petit Prince by Antoine de Saint-Exupéry (1943)](https://gutenberg.net.au/ebooks03/0300771h.html)
+
+#### Concepts
+
+* [LMFDB - Knowledge database](https://www.lmfdb.org/knowledge/?category=group&reviewed=on&beta=on&normal=on),
+* [House of Graphs help](https://houseofgraphs.org/help), including the list of invariants,
+* [π-Base properties](https://topology.pi-base.org/properties).
 
 ### Data management
 
@@ -37,13 +45,15 @@ title: Katja Berčič | Talks | Alignments for data
 * [GO FAIR](https://www.go-fair.org/fair-principles/)
 * [Metadata Standards](https://rdamsc.bath.ac.uk/) (by area)
 * [A sample RDMP questionnaire](https://www.aamu.edu/research-economic-development/research-compliance/_documents/rdmp-template.pdf)
-
-### Survey
-
-* [MathBases](https://mathbases.org)
 * [100 theorems](www.cs.ru.nl/~freek/100/) and [1000+ theorems](https://1000-plus.github.io)
 
-### Trusting data
+### Symmetric objects
+
+* [Marston Conder's homepage](https://www.math.auckland.ac.nz/~conder/) with lists of symmetric objects,
+* [Datasets of Highly Symmetric Objects](https://graphsym.net),
+* [Maniplexes: Part 1: Maps, Polytopes, Symmetry and Operators](https://www.mdpi.com/2073-8994/4/2/265)
+
+### Lean-HoG
 
 * Lean-HoG [GitHub](https://github.com/katjabercic/Lean-HoG/)
 * Andrej Bauer, Katja Berčič, Gauvain Devillez and Jure Taslak, [Incorporating a Database of Graphs into a Proof Assistant](https://link.springer.com/chapter/10.1007/978-3-031-66997-2_9)
