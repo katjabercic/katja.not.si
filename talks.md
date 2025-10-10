@@ -5,6 +5,15 @@ title: Katja Berčič | Talks
 
 # Talks
 
+## Alignments for data
+
+I gave a talk at [ALIGN2025 at CICM 2025](https://sites.google.com/view/align2025/welcome), 
+which took place at the University of Brasilia in October 6 - 10, 2025.
+
+* <a href="/download/Alignments-for-data.pdf">slides</a>,
+* [references](alignments-for-data.html).
+
+
 ## Do mathematicians dream of data?
 
 I gave a talk at [LMFDB, Computation, and Number Theory (LuCaNT) 2025](https://icerm.brown.edu/program/topical_workshop/tw-25-lucant), 
