@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Katja Berčič | About
+title: About
 ---
 
 I am a researcher and an assistant at the Faculty of Mathematics and Physics, University of Ljubljana.

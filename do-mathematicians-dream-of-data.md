@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Katja Berčič | Talks | Do mathematicians dream of data?
+title: Do mathematicians dream of data?
 ---
 
 # Do mathematicians dream of data?

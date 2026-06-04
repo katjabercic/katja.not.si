@@ -5,3 +5,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 /images/.jekyll-metadata
+
+# Local working docs / artifacts (not part of the site)
+/research-dossier.md
+/audit-backlog.md
+/.baseline/
+/.claude/

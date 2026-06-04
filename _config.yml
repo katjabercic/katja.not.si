@@ -23,16 +23,18 @@ title: Katja Berčič
 owner:
   name: Katja Berčič
   email: katja.bercic@fmf.uni-lj.si
-description: Homepage
+author: Katja Berčič
+description: "Researcher and teaching assistant at the Faculty of Mathematics and Physics, University of Ljubljana, working on mathematical data."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: katja.not.si
+url: https://katja.not.si
 
 locale: en
 
 # Build settings
 # theme: jekyll-yamt
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 sass:
   sass_dir: _sass
@@ -85,3 +87,5 @@ exclude:
   - package.json
   - spec
   - tmp
+  - research-dossier.md
+  - audit-backlog.md

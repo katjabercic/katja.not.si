@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Katja Berčič | Talks
+title: Talks
 ---
 
 # Talks

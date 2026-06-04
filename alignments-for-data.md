@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Katja Berčič | Talks | Alignments for data
+title: Alignments for data
 ---
 
 # Alignments for data

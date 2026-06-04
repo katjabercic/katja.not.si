@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Katja Berčič | Projects
+title: Projects
 ---
 
 
