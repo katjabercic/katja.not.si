@@ -39,6 +39,7 @@ plugins:
 sass:
   sass_dir: _sass
   style: compressed
+  sourcemap: never
 
 # Exclude from processing.
 # The following items will not be processed, by default.
