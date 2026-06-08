@@ -5,7 +5,10 @@ title: Activities
 
 # Activities
 
-CICM-19, the 2026 installment of [CICM](https://cicm-conference.org/cicm.php)
+## 2026
+
+[CICM 2026](https://cicm-conference.org/2026/cicm.php)
+: September 21-25, 2026; member of the local organizing committee, together with David E. Narváez and Luka Vrečar.
 
 ## 2023
 

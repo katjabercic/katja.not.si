@@ -45,7 +45,7 @@ title: Alignments for data
 * [GO FAIR](https://www.go-fair.org/fair-principles/)
 * [Metadata Standards](https://rdamsc.bath.ac.uk/) (by area)
 * [A sample RDMP questionnaire](https://www.aamu.edu/research-economic-development/research-compliance/_documents/rdmp-template.pdf)
-* [100 theorems](www.cs.ru.nl/~freek/100/) and [1000+ theorems](https://1000-plus.github.io)
+* [100 theorems](https://www.cs.ru.nl/~freek/100/) and [1000+ theorems](https://1000-plus.github.io)
 
 ### Symmetric objects
 

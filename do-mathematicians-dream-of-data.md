@@ -41,7 +41,7 @@ title: Do mathematicians dream of data?
 ### Survey
 
 * [MathBases](https://mathbases.org)
-* [100 theorems](www.cs.ru.nl/~freek/100/) and [1000+ theorems](https://1000-plus.github.io)
+* [100 theorems](https://www.cs.ru.nl/~freek/100/) and [1000+ theorems](https://1000-plus.github.io)
 
 ### Trusting data
 
