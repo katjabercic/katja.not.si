@@ -9,10 +9,15 @@ title: Projects
 
 ## Lean HoG
 
+Lean HoG makes more than 23,000 graphs from the House of Graphs available inside the Lean proof assistant, together with formally verified proofs of selected properties.
+
 * Joint work with [Andrej Bauer](https://www.andrej.com/index.html), [Gauvain Devillez](https://github.com/GauvainD) and [Jure Taslak](https://www.fmf.uni-lj.si/sl/imenik/1331/taslak-jure/).
-* [GitHub](https://github.com/katjabercic/Lean-HoG)
+* [paper (CICM 2024)](https://doi.org/10.1007/978-3-031-66997-2_9)
+* [GitHub](https://github.com/katjabercic/Lean-HoG) (BSD-2-Clause licence)
 
 ## MathBases
+
+A catalogue of more than 130 mathematical databases.
 
 * With [Adam Towsley](https://www.rit.edu/directory/adtsma-adam-towsley), [Ben Spitz](https://benspitz.com), [David Roe](https://math.mit.edu/~roed/), [David Lowry-Duda](https://davidlowryduda.com), [Benjamin Hutz](https://www.slu.edu/arts-and-sciences/mathematics-statistics/faculty/benjamin-hutz.php) and [Edgar Costa](https://edgarcosta.org).
 * I am a member of the editorial board.
@@ -24,7 +29,7 @@ This project is the successor of the [Catalogue of Mathematical Datasets](#catal
 ## MathDataHub
 
 * Joint project with the [KWARC group at FAU Erlangen-Nürnberg](https://kwarc.info/projects/mdh/). 
-* [GitHub](https://github.com/MathHubInfo/mhd)
+* [GitHub](https://github.com/MathHubInfo/mhd) (GPL-3.0 licence)
 
 A semantic portal for mathematical datasets.
 This project is a successor of DiscreteZOO
@@ -33,15 +38,18 @@ This project is a successor of DiscreteZOO
 
 * Joint work with [Slobodan Stanojevikj](https://github.com/Stanoja).
 * [mathswitch.xyz](https://mathswitch.xyz)
-* [GitHub](https://github.com/katjabercic/mathswitch)
+* [GitHub](https://github.com/katjabercic/mathswitch) (MIT licence)
 
 Infrastructure for relaying and exchanging mathematical concepts.
 Mathswitch gathers concepts from sources such as Wikipedia, Wikidata, nLab, MathWorld, and ProofWiki, and links them when they refer to the same idea.
+It currently aligns more than 40,000 concept entries across 7 sources.
 
 ## Catalogue of Mathematical Datasets
 
+An earlier project, succeeded by [MathBases](#mathbases).
+
 * [website](https://mathdb.mathhub.info),
-* [GitHub](https://github.com/MathHubInfo/MathDBDjango).
+* [GitHub](https://github.com/MathHubInfo/MathDBDjango) (GPL-3.0 licence).
 
 ## DiscreteZOO
 
@@ -61,4 +69,3 @@ the development of high-quality sociotechnical infrastructure: software, databas
 It was founded as an outcome of the American Institute of Mathematics' 2023 December workshop on Open-source cyberinfrastructure 
 supporting mathematics research.
 I am a member of its steering committee.
-
