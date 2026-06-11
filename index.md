@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-I am a researcher and teaching assistant at the Faculty of Mathematics and Physics, University of Ljubljana. I started out in graph theory, and I now spend most of my time on mathematical data: building databases and catalogues so that mathematical objects are genuinely easy to find and reuse, and lately teaching a proof assistant to use a database of graphs.
+I am a researcher at the Faculty of Mathematics and Physics, University of Ljubljana (PhD in Mathematics). I started in graph theory and now work on open infrastructure for mathematical data: databases, catalogues, and tools that make mathematical objects easy to find, reuse, and reason about, by people and, increasingly, by machines.
+
+I'm also working toward linking mathematical knowledge across the literature, formalized libraries (Lean/Mathlib), computer-algebra systems, and structured databases (OEIS, LMFDB, House of Graphs, π-Base).
 
 Contact
 
