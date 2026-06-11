@@ -3,4 +3,5 @@ pages:
   - {name: 'Activities', url: '/activities.html'}
   - {name: 'Projects', url: '/projects.html'}
   - {name: 'Talks', url: '/talks.html'}
+  - {name: 'Publications and CV', url: '/publications-and-cv.html'}
   - {name: 'Other', url: '/other.html'}
